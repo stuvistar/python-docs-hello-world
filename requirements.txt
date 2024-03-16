@@ -1,1 +1,10 @@
 Flask
+pandas
+GoogleNews
+newspaper3k
+nltk
+rake-nltk
+wordcloud
+matplotlib
+transformers
+sumy
